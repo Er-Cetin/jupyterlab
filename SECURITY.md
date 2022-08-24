@@ -13,5 +13,5 @@ currently being supported with security updates.
 | < 4.0   | :x:                |
 
 ## Reporting a Vulnerability
-www.bounty.github.com
+
 Güvenli ve rahat  olarak bildirebilirsiniz.
