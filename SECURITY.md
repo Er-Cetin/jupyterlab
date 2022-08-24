@@ -14,3 +14,4 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 www.bounty.github.com
+Güvenli ve rahat  olarak bildirebilirsiniz.
