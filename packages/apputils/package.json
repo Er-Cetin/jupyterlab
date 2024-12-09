@@ -63,7 +63,7 @@
     "@lumino/widgets": "^1.31.1",
     "@types/react": "^17.0.0",
     "react": "^17.0.1",
-    "sanitize-html": "~2.5.3"
+    "sanitize-html": "~2.12.1"
   },
   "devDependencies": {
     "@jupyterlab/testutils": "^4.0.0-alpha.6",
